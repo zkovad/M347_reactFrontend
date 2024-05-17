@@ -1,6 +1,6 @@
 # M346 + M426 Abschlussprojekt
 Das Projekt besteht aus folgenden Repositories:
-- https://github.com/hagmannStephan/m347_backend_api
+- https://github.com/hagmannStephan/m347_backend_api (Deployed as https://m347backend-fid1eypgt-hagmannstephans-projects.vercel.app/)
 - https://github.com/hagmannStephan/M347_reactFrontend
 ## Weekly-Meetings
 ### 17.05.2024
