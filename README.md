@@ -6,4 +6,4 @@ Das Projekt besteht aus folgenden Repositories:
 ### 17.05.2024
 Heute haben wir die Aufgabenaufteilung besprochen. Gian, Dejan und Edgar arbeiten daran, das Frontend zum Laufen zu bringen und Stephan wird die REST-Backend-API umsetzen. Wenn ein Team früher als erwartet fertig ist, hilft es dem anderen Team.
 Das Deployment werden wir auf Vercel machen, die Backend-API ist sogar bereits deployt, einfach noch nicht funktionsfähig.
-Stephan wird Project Owner und Edgar ist Scrum-Master. Nächste Woche muss Stephan herausfinden, wie man ein Deployment auf Vercel auf Public setzt.
+Stephan wird Project Owner und Edgar ist Scrum-Master. Nächste Woche muss Stephan herausfinden, wie man ein Deployment auf Vercel auf Public setzt (Auf Deployment gehen > Settings > Deployment Protection > Set Vercel Authentication to disabled).
