@@ -13,4 +13,5 @@ Nach dieser Klärung nahm Edgar seine Rolle als Scrum Master auf und organisiert
 Nachdem sie ihre individuellen Aufgaben erhalten hatten, begannen die anderen mit ihrer Recherche und Planung. 
 Stephan setzte sich zusammen mit dem Deployment des Backends. 
 ### 31.05.2204
-Dejan wird heute am Frontend arbeiten, genau wie Gian. Stephan wird weiter an den Endpoints arbeiten. Stephan wird heute die Datenbank durch einen (vermutlich) temporären Workaround lösen, in dem er die Daten in einem Python Array speichert.
+Im heutigen Meeting einigten sich Dejan, Gian und Edgar auf das erstellen von individuellen Branches für ihre eigenen Tasks. Diese werden dann rebased und, nach inspektion von Edgar, von Stephan im Github zum Main Branch gemerged. 
+Dejan, Gian und Edgar werden heute weiterhin am Frontend arbeiten. Stephan wird weiter an den Endpoints arbeiten. Stephan wird heute die Datenbank durch einen (vermutlich) temporären Workaround lösen, in dem er die Daten in einem Python Array speichert.
