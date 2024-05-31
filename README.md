@@ -12,4 +12,5 @@ Wir begannen den Tag damit, dass wir die Anforderungen der beiden Projekte, die 
 Nach dieser Klärung nahm Edgar seine Rolle als Scrum Master auf und organisierte ein Treffen, bei dem wir die Aufgabenverteilung besprachen. Diese Verteilung wurde dann in der Registerkarte "Projekte" in unserem Github festgeschrieben. 
 Nachdem sie ihre individuellen Aufgaben erhalten hatten, begannen die anderen mit ihrer Recherche und Planung. 
 Stephan setzte sich zusammen mit dem Deployment des Backends. 
-
+### 31.05.2204
+Dejan wird heute am Frontend arbeiten, genau wie Gian. Stephan wird weiter an den Endpoints arbeiten. Stephan wird heute die Datenbank durch einen (vermutlich) temporären Workaround lösen, in dem er die Daten in einem Python Array speichert.
