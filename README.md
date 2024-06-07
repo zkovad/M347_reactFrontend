@@ -12,6 +12,11 @@ Wir begannen den Tag damit, dass wir die Anforderungen der beiden Projekte, die 
 Nach dieser Klärung nahm Edgar seine Rolle als Scrum Master auf und organisierte ein Treffen, bei dem wir die Aufgabenverteilung besprachen. Diese Verteilung wurde dann in der Registerkarte "Projekte" in unserem Github festgeschrieben. 
 Nachdem sie ihre individuellen Aufgaben erhalten hatten, begannen die anderen mit ihrer Recherche und Planung. 
 Stephan setzte sich zusammen mit dem Deployment des Backends. 
-### 31.05.2204
+### 31.05.2024
 Im heutigen Meeting einigten sich Dejan, Gian und Edgar auf das erstellen von individuellen Branches für ihre eigenen Tasks. Diese werden dann rebased und, nach inspektion von Edgar, von Stephan im Github zum Main Branch gemerged. 
 Dejan, Gian und Edgar werden heute weiterhin am Frontend arbeiten. Stephan wird weiter an den Endpoints arbeiten. Stephan wird heute die Datenbank durch einen (vermutlich) temporären Workaround lösen, in dem er die Daten in einem Python Array speichert.
+### 07.06.2024
+Heute hat Stephan mit einer In-Memory Datenbank die benötigten Backend APIs erstellt und ins Backend-Repository gepusht. Dejan und Gian können nun ihre Entwürfe mit dem Backend verbinden.  
+Stephan möchte nun das Backend mit einer echten Datenbank verbessern.
+Dejan und Gian können jetzt die paths /wishlists und /trips mit den von Stephan erstellten Endpoints verbinden. Rest-Services Get, Post, Delete, Patch...
+Edgar fangt heute an mit dem Design der Frontends. 
