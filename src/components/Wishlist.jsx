@@ -1,13 +1,11 @@
 /* eslint-disable react/prop-types */
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./Wishlist.css"; // Import custom CSS
+import "./Wishlist.css";
 
-// Deconstruct props
 export default function Wishlist(props) {
   const { wishlist, dispatch } = props;
 
-  // Map wishlist items
   const itemsMapped = wishlist.map((item, index) => (
     <Wish dispatch={dispatch} item={item} key={index} />
   ));
@@ -63,7 +61,6 @@ export default function Wishlist(props) {
 }
 
 function Wish(props) {
-  // Deconstruct props
   const { dispatch } = props;
   const { id, title, description, startTrip, endTrip } = props.item;
 
