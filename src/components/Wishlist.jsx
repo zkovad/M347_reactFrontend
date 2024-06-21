@@ -18,6 +18,7 @@ export default function Wishlist(props) {
     </tr>
   );
 
+  
   return (
     <div className="container mt-5">
       <div className="row">
